@@ -130,3 +130,15 @@ button {
 .bubble {
     display: none !important;
 }
+
+
+/* DATE PICKER */
+
+.date-picker-on {
+    border: 1px solid white !important;
+    background-color: white !important;
+}
+
+.date-picker-on:hover {
+    cursor: pointer !important;
+}
